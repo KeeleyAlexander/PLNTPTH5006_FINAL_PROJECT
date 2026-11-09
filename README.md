@@ -1,0 +1,1 @@
+This project will take raw reads in the form of fastq files and process/clean them for downstream analyses. This will include trimming, removing host DNA, quality checks, assembly, and result in high quality MAGs
